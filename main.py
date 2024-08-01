@@ -1,8 +1,8 @@
 import xml.etree.ElementTree as ET
 
 INPUT_FILE_PATH = "./input.xml"
-OUTPUT_FOLDER = "./smsy"
-PHONE_OWNER = "Maciej" # used only to display proper message sender in text files
+OUTPUT_FOLDER = "./messages_out"
+PHONE_OWNER = "MyNameHere" # used only to display proper message sender in text files
 
 class Contact():
     def __init__(self, name, number):
