@@ -1,4 +1,4 @@
-# SMS_Backup_to_text
+# SMS_Backup_To_Text
 ## A program to convert sms backup to readable text documents
 
 A short script that allows you to get all of your DMs from your phone and place them on a folder as text files containing whole conversations with every number you ever talked to. 
